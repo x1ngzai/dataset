@@ -1,0 +1,5 @@
+train: ni/train/images
+val: ni/val/images
+
+nc: 2
+names: ['tt','ct']
