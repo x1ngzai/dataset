@@ -1,0 +1,5 @@
+train: shengsijuji/train/images
+val: shengsijuji/val/images
+
+nc: 3
+names: ['t','ct','head']
