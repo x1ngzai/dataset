@@ -1,0 +1,5 @@
+train: ccf/train/images
+val: ccf/val/images
+
+nc: 2
+names: ['p','head']
